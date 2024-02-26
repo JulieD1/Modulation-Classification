@@ -14,7 +14,7 @@ Automatic Modulation Classification (AMC) involves the automatic identification 
 • Continuous Phase Frequency-Shift Keying\
 • Frequency Modulation\
 • Double-Sideband Amplitude Modulation\
-• Single-Sideband Amplitude Modulation\
+• Single-Sideband Amplitude Modulation
 
 ## Sample results of  Convolutional Neural Network (CNN) training
 For SNR = 18 and K factor = 4.\
