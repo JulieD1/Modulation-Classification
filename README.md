@@ -3,6 +3,19 @@
 ## Introduction
 Automatic Modulation Classification (AMC) involves the automatic identification of communication signal modulation types. It holds a crucial role in military, civilian and space spectral efficiency applications. This paper aims to exploit the capabilities of Artificial Intelligence, particularly Convolution Neural Networks (CNN), for the automated classification of 11 analogue and digital modulation schemes, across varying Signalto-Noise Ratio (SNR) and various Rician fading conditions. The performance of the proposed model is extensively evaluated under various channel conditions and the obtained results demonstrated the utility of the proposed model for ACM tasks
 
+## Modulation Types 
+• Binary Phase-Shift Keying
+• Quadrature Phase-Shift Keying
+• 8-Phase Shift Keying
+• 16-Quadrature Amplitude Modulation
+• 64-Quadrature Amplitude Modulation
+• Pulse Amplitude Modulation 4-Level
+• Gaussian Frequency-Shift Keying
+• Continuous Phase Frequency-Shift Keying
+• Frequency Modulation
+• Double-Sideband Amplitude Modulation
+• Single-Sideband Amplitude Modulation
+
 ## Sample results of  Convolutional Neural Network (CNN) training
 For SNR = 18 and K factor = 4. Validation Training Progress:\
 \
@@ -14,9 +27,9 @@ For SNR = 18 and K factor = 4. Validation Training Progress:\
 
 Confusion Matrix for Test data:\
 \
-<p align="center">
-  <img src="(https://github.com/JulieD1/Modulation-Classification/assets/124683626/ae72d80b-2a2e-4a06-a7c9-ec807e7d5119)" />
-</p>
+![snr18k4mtrx (1)](https://github.com/JulieD1/Modulation-Classification/assets/124683626/c5a41116-6a6c-4d9d-8c4e-439e0b0da6d8)
+
+
 
 
 ## Results
