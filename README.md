@@ -17,17 +17,10 @@ Automatic Modulation Classification (AMC) involves the automatic identification 
 • Single-Sideband Amplitude Modulation
 
 ## Sample results of  Convolutional Neural Network (CNN) training
-For SNR = 18 and K factor = 4. Validation Training Progress:\
-\
-<p align="center">
-  <img src="(https://github.com/JulieD1/Modulation-Classification/assets/124683626/6e6f39dc-955a-4469-8cc1-000b34b07058)" />
-</p>
-
-
-
+For SNR = 18 and K factor = 4. \
 Confusion Matrix for Test data:\
 \
-![snr18k4mtrx (1)](https://github.com/JulieD1/Modulation-Classification/assets/124683626/c5a41116-6a6c-4d9d-8c4e-439e0b0da6d8)
+![image](https://github.com/JulieD1/Modulation-Classification/assets/124683626/52f330f3-d2a3-416b-84c5-f12154b127db)
 
 
 
