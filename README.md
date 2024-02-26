@@ -26,6 +26,7 @@ Confusion Matrix for Test data:\
 Performance of the CNN Automatic Modulation Classification for SNR values from -15 to 18 dB with step value of 3 dB:\
 ![SNRdependency](https://github.com/JulieD1/Modulation-Classification/assets/124683626/2d904950-9483-4dea-a284-ce3206058b26)
 
-Performance of the CNN Automatic Modulation Classification for each K-Factor. \
+A higher k-factor indicates a dominant LOS component over scattered components, and vice versa.\
+The Performance of the CNN Automatic Modulation Classification for each K-Factor. \
 ![K-factor-dependency](https://github.com/JulieD1/Modulation-Classification/assets/124683626/b69b2a19-035d-4538-8307-afa11e78937d) \
-A higher k-factor indicates a dominant LOS component over scattered components, and vice versa.
+
