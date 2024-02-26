@@ -28,5 +28,5 @@ Performance of the CNN Automatic Modulation Classification for SNR values from -
 
 A higher k-factor indicates a dominant LOS component over scattered components, and vice versa.\
 The Performance of the CNN Automatic Modulation Classification for each K-Factor. \
-![K-factor-dependency](https://github.com/JulieD1/Modulation-Classification/assets/124683626/b69b2a19-035d-4538-8307-afa11e78937d) \
+![K-factor-dependency](https://github.com/JulieD1/Modulation-Classification/assets/124683626/b69b2a19-035d-4538-8307-afa11e78937d) 
 
